@@ -1,0 +1,23 @@
+{
+    "widget" : {
+      "height" : 480,
+      "tintColor" : "",
+      "iconColor" : ""
+    },
+    "info" : {
+      "url" : "",
+      "author" : "John Zhou",
+      "website" : "",
+      "types" : 3,
+      "name" : "",
+      "version" : "1.0"
+    },
+    "settings" : {
+      "minOSVer" : "10.0.0",
+      "minSDKVer" : "1.0.0",
+      "rotateDisabled" : true,
+      "autoKeyboardEnabled" : false,
+      "keyboardToolbarEnabled" : false,
+      "idleTimerDisabled" : false
+    }
+  }
